@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Austin Pahl'
-description:	       'my personal website'
+title:		     'Austin R. Pahl'
+description:	     'Computer Science PhD student'
 author:              'Austin Pahl'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
