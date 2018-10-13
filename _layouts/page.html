@@ -11,3 +11,7 @@ layout: default
 {% endif %}
 
 {{ content }}
+
+{% if page.footerimage %}
+  <img src="{{ site.github.url }}/assets/img/{{ page.footerimage }}">
+{% endif %}
