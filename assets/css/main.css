@@ -499,3 +499,9 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+/* source: https://stackoverflow.com/questions/2833068/ */
+.citation {
+	text-indent: -20px;
+	margin-left: 20px;
+}
