@@ -12,7 +12,7 @@ title: Research
 Investigating potential research related to OS-level virtualization
 
 ### Past Work  
-**USC Center for Digital Humanities**
+**USC Center for Digital Humanities**  
 January 2016 - December 2016  
 * Developed an iOS app in Swift that presents the history of a local community  
 * Received $3,000 under the Magellan Grant to work on the app with another student  
