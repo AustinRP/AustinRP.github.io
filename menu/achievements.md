@@ -5,7 +5,7 @@ title: Achievements
 
 ### August 2018  
 **Dean’s Summer Research Fellowship**: Awarded to 4 incoming PhD students in the CU Department of Computer Science to help kick-start research in areas of need  
-**Early Career Professional Development Fellowship**: Awarded to incoming PhD students in the CU Department of Computer Science to attend a major conference without presenting (planning on attending [NSDI '19](https://www.usenix.org/conference/nsdi19))!  
+**Early Career Professional Development Fellowship**: Awarded to incoming PhD students in the CU Department of Computer Science to attend a major conference without presenting (attended [NSDI '19](https://www.usenix.org/conference/nsdi19))!  
 **Departmental Fellowship**: Funding from the Department of CS for research and studies for up to 5 years as a PhD student  
 
 ### April 2016  
