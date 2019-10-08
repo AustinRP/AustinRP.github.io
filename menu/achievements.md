@@ -3,6 +3,9 @@ layout: page
 title: Achievements
 ---
 
+### April 2019  
+**Outstanding Teaching Assistant Award**: Received for work as a teaching assistant during Fall 2018 and Spring 2019 semesters at CU  
+
 ### August 2018  
 **Dean’s Summer Research Fellowship**: Awarded to 4 incoming PhD students in the CU Department of Computer Science to help kick-start research in areas of need  
 **Early Career Professional Development Fellowship**: Awarded to incoming PhD students in the CU Department of Computer Science to attend a major conference without presenting (attended [NSDI '19](https://www.usenix.org/conference/nsdi19))!  

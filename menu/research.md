@@ -9,7 +9,7 @@ title: Research
 * Operating systems  
 
 ### Ongoing Research  
-Investigating potential research related to OS-level virtualization
+Improving scaling and latency of cloud streaming services like [Google Stadia](https://stadia.dev) and [Puffin OS](https://www.puffin.com/os/)
 
 ### Past Work  
 **USC Center for Digital Humanities**  
